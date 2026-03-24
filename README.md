@@ -1,2 +1,2 @@
-# IAU-FS2Mamba
+# IAU-FMamba
 IAU-FMamba: Inertial Adaptive Unfolding Frequency–Mamba for Hyperspectral Image Reconstruction is comming soon...
